@@ -28,10 +28,32 @@
   color: #61dafb;
 }
 
-h1 {
+button {
+  align-content: center;
+}
+
+.table {
   text-align: center;
 }
 
+body {
+  margin: 30px;
+  background-color: #fdf5fc;
+}
+
+h1 {
+  margin-top: 20px;
+}
+
+input {
+  text-align: center;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.buttons {
+  align-content: center;
+}
 
 @keyframes App-logo-spin {
   from {

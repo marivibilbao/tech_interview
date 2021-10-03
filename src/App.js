@@ -1,6 +1,6 @@
 import "./App.css";
 import React, { useState } from "react";
-import Table from "./components/tabla";
+import Table from "./components/Table";
 
 function App() {
   const [count, setCount] = useState(0);

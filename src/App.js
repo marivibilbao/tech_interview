@@ -1,11 +1,13 @@
 import "./App.css";
 import React, { useState } from "react";
+import Table from "./components/tabla";
 
 function App() {
   const [count, setCount] = useState(0);
+
   return (
     <>
-      <h1>Contador</h1>
+      <h1>Contador (Assigment 1)</h1>
       <button
         type="button"
         className="btn btn-danger"
@@ -21,8 +23,10 @@ function App() {
       >
         +
       </button>
+      <h1>API (Assigment 2)</h1>
+      <Table/>
     </>
   );
-}
+};
 
 export default App;

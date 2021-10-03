@@ -1,0 +1,28 @@
+{
+  "students": [
+    {
+      "ID": 1,
+      "firstName": "María Victoria",
+      "lastName": "Bilbao González",
+      "email": "marivibilbao@gmail.com"
+    },
+    {
+      "ID": 2,
+      "firstName": "Nancy Leonor",
+      "lastName": "González Flores",
+      "email": "nanonancy@gmail.com"
+    },
+    {
+      "ID": 3,
+      "firstName": "Pedro",
+      "lastName": "Bilbao Elorza",
+      "email": "pedrobilbao@gmail.com"
+    },
+    {
+      "ID": 4,
+      "firstName": "María Victoria",
+      "lastName": "Villegas",
+      "email": "mvillegas@gmail.com"
+    }
+  ]
+}
